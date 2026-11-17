@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+app/dist/
+app/node_modules/
+*.log
+.env
+.dev.vars
+.wrangler/
+# Real family data never goes in this repo. Keep it in a private copy.
+app/public/people/
+app/public/scans/scan-*
+source/
+data-extra/
+app/wrangler.jsonc

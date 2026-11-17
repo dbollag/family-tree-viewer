@@ -1,0 +1,80 @@
+[
+ {
+  "id": "S01",
+  "label": "Birth certificate, Erik Hartwell",
+  "publisher": "Gothenburg parish register (sample)",
+  "url": null,
+  "scans": [
+   1
+  ],
+  "type": "Scan",
+  "status": "RECORD",
+  "note": "A fictional birth entry."
+ },
+ {
+  "id": "S02",
+  "label": "Marriage record, Erik and Ingrid",
+  "publisher": "Hennepin County (sample)",
+  "url": null,
+  "scans": [
+   2
+  ],
+  "type": "Scan",
+  "status": "RECORD",
+  "note": "A fictional marriage record."
+ },
+ {
+  "id": "S03",
+  "label": "Passenger list, 1955 arrival",
+  "publisher": "Port of New York (sample)",
+  "url": null,
+  "scans": [
+   3
+  ],
+  "type": "Scan",
+  "status": "RECORD",
+  "note": "A fictional passenger list."
+ },
+ {
+  "id": "S04",
+  "label": "Family photograph, Hartwell reunion",
+  "publisher": "Family collection (sample)",
+  "url": null,
+  "scans": [
+   4
+  ],
+  "type": "Family photograph",
+  "status": "FAMILY ACCOUNT",
+  "note": "Drawn placeholder, not a real photograph."
+ },
+ {
+  "id": "S05",
+  "label": "Lyon civil register extract",
+  "publisher": "Archives of Lyon (sample)",
+  "url": null,
+  "scans": [],
+  "type": "Database record",
+  "status": "DATABASE ENTRY",
+  "note": "Fictional database extract for the Moreau line."
+ },
+ {
+  "id": "S06",
+  "label": "Family notes by Karin Hartwell",
+  "publisher": "Karin Hartwell",
+  "url": null,
+  "scans": [],
+  "type": "Family statement",
+  "status": "FAMILY ACCOUNT",
+  "note": "Notes written from memory."
+ },
+ {
+  "id": "S07",
+  "label": "Owner's own knowledge",
+  "publisher": "Owner",
+  "url": null,
+  "scans": [],
+  "type": "Family statement",
+  "status": "CONFIRMED BY OWNER",
+  "note": "First-hand knowledge of living relatives."
+ }
+]

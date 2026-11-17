@@ -1,0 +1,11 @@
+[
+ {
+  "id": "Q01",
+  "persons": [
+   "P22"
+  ],
+  "text": "Was Johan Hartwell really Nils's father?",
+  "status": "Open",
+  "next": "Look for a baptism entry in Gothenburg."
+ }
+]

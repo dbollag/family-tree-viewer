@@ -1,0 +1,395 @@
+[
+ {
+  "id": "L01",
+  "name": "Gothenburg",
+  "also": [],
+  "country": "Sweden",
+  "lat": 57.7089,
+  "lon": 11.9746,
+  "quality": "Town",
+  "note": "",
+  "people": [
+   {
+    "person": "P10",
+    "kind": "birth",
+    "either": false,
+    "fact": "F010"
+   },
+   {
+    "person": "P15",
+    "kind": "birth",
+    "either": false,
+    "fact": "F019"
+   },
+   {
+    "person": "P15",
+    "kind": "death",
+    "either": false,
+    "fact": "F020"
+   },
+   {
+    "person": "P16",
+    "kind": "death",
+    "either": false,
+    "fact": "F022"
+   },
+   {
+    "person": "P21",
+    "kind": "birth",
+    "either": false,
+    "fact": "F031"
+   }
+  ],
+  "facts": [
+   {
+    "id": "F047",
+    "person": "P15",
+    "group": "Married"
+   }
+  ]
+ },
+ {
+  "id": "L02",
+  "name": "Malmö",
+  "also": [],
+  "country": "Sweden",
+  "lat": 55.605,
+  "lon": 13.0038,
+  "quality": "Town",
+  "note": "",
+  "people": [
+   {
+    "person": "P11",
+    "kind": "birth",
+    "either": false,
+    "fact": "F012"
+   },
+   {
+    "person": "P17",
+    "kind": "birth",
+    "either": false,
+    "fact": "F023"
+   },
+   {
+    "person": "P17",
+    "kind": "death",
+    "either": false,
+    "fact": "F024"
+   },
+   {
+    "person": "P18",
+    "kind": "death",
+    "either": false,
+    "fact": "F026"
+   }
+  ],
+  "facts": [
+   {
+    "id": "F048",
+    "person": "P17",
+    "group": "Married"
+   }
+  ]
+ },
+ {
+  "id": "L03",
+  "name": "Uppsala",
+  "also": [],
+  "country": "Sweden",
+  "lat": 59.8586,
+  "lon": 17.6389,
+  "quality": "Town",
+  "note": "",
+  "people": [
+   {
+    "person": "P16",
+    "kind": "birth",
+    "either": false,
+    "fact": "F021"
+   }
+  ],
+  "facts": []
+ },
+ {
+  "id": "L04",
+  "name": "Minneapolis",
+  "also": [],
+  "country": "United States",
+  "lat": 44.9778,
+  "lon": -93.265,
+  "quality": "Town",
+  "note": "",
+  "people": [
+   {
+    "person": "P05",
+    "kind": "birth",
+    "either": false,
+    "fact": "F005"
+   },
+   {
+    "person": "P07",
+    "kind": "birth",
+    "either": false,
+    "fact": "F007"
+   },
+   {
+    "person": "P09",
+    "kind": "birth",
+    "either": false,
+    "fact": "F009"
+   },
+   {
+    "person": "P10",
+    "kind": "death",
+    "either": false,
+    "fact": "F011"
+   },
+   {
+    "person": "P11",
+    "kind": "death",
+    "either": false,
+    "fact": "F013"
+   },
+   {
+    "person": "P12",
+    "kind": "birth",
+    "either": false,
+    "fact": "F014"
+   }
+  ],
+  "facts": [
+   {
+    "id": "F034",
+    "person": "P10",
+    "group": "Lived"
+   },
+   {
+    "id": "F036",
+    "person": "P05",
+    "group": "Lived"
+   },
+   {
+    "id": "F037",
+    "person": "P06",
+    "group": "Lived"
+   },
+   {
+    "id": "F043",
+    "person": "P05",
+    "group": "Married"
+   },
+   {
+    "id": "F045",
+    "person": "P10",
+    "group": "Married"
+   }
+  ]
+ },
+ {
+  "id": "L05",
+  "name": "Boston",
+  "also": [],
+  "country": "United States",
+  "lat": 42.3601,
+  "lon": -71.0589,
+  "quality": "Town",
+  "note": "",
+  "people": [
+   {
+    "person": "P01",
+    "kind": "birth",
+    "either": false,
+    "fact": "F001"
+   },
+   {
+    "person": "P03",
+    "kind": "birth",
+    "either": false,
+    "fact": "F003"
+   },
+   {
+    "person": "P04",
+    "kind": "birth",
+    "either": false,
+    "fact": "F004"
+   }
+  ],
+  "facts": [
+   {
+    "id": "F038",
+    "person": "P01",
+    "group": "Lived"
+   },
+   {
+    "id": "F039",
+    "person": "P02",
+    "group": "Lived"
+   },
+   {
+    "id": "F042",
+    "person": "P01",
+    "group": "Married"
+   }
+  ]
+ },
+ {
+  "id": "L06",
+  "name": "Lyon",
+  "also": [],
+  "country": "France",
+  "lat": 45.764,
+  "lon": 4.8357,
+  "quality": "Town",
+  "note": "",
+  "people": [
+   {
+    "person": "P06",
+    "kind": "birth",
+    "either": false,
+    "fact": "F006"
+   },
+   {
+    "person": "P13",
+    "kind": "birth",
+    "either": false,
+    "fact": "F015"
+   },
+   {
+    "person": "P13",
+    "kind": "death",
+    "either": false,
+    "fact": "F016"
+   },
+   {
+    "person": "P14",
+    "kind": "death",
+    "either": false,
+    "fact": "F018"
+   },
+   {
+    "person": "P19",
+    "kind": "birth",
+    "either": false,
+    "fact": "F027"
+   },
+   {
+    "person": "P19",
+    "kind": "death",
+    "either": false,
+    "fact": "F028"
+   },
+   {
+    "person": "P20",
+    "kind": "death",
+    "either": false,
+    "fact": "F030"
+   }
+  ],
+  "facts": [
+   {
+    "id": "F046",
+    "person": "P13",
+    "group": "Married"
+   },
+   {
+    "id": "F049",
+    "person": "P19",
+    "group": "Married"
+   }
+  ]
+ },
+ {
+  "id": "L07",
+  "name": "Dijon",
+  "also": [],
+  "country": "France",
+  "lat": 47.322,
+  "lon": 5.0415,
+  "quality": "Town",
+  "note": "",
+  "people": [
+   {
+    "person": "P14",
+    "kind": "birth",
+    "either": false,
+    "fact": "F017"
+   }
+  ],
+  "facts": []
+ },
+ {
+  "id": "L08",
+  "name": "Stockholm",
+  "also": [],
+  "country": "Sweden",
+  "lat": 59.3293,
+  "lon": 18.0686,
+  "quality": "Town",
+  "note": "",
+  "people": [
+   {
+    "person": "P21",
+    "kind": "death",
+    "either": false,
+    "fact": "F032"
+   }
+  ],
+  "facts": [
+   {
+    "id": "F040",
+    "person": "P21",
+    "group": "Lived"
+   }
+  ]
+ },
+ {
+  "id": "L09",
+  "name": "Chicago",
+  "also": [],
+  "country": "United States",
+  "lat": 41.8781,
+  "lon": -87.6298,
+  "quality": "Town",
+  "note": "",
+  "people": [
+   {
+    "person": "P02",
+    "kind": "birth",
+    "either": false,
+    "fact": "F002"
+   },
+   {
+    "person": "P08",
+    "kind": "birth",
+    "either": false,
+    "fact": "F008"
+   }
+  ],
+  "facts": [
+   {
+    "id": "F044",
+    "person": "P07",
+    "group": "Married"
+   }
+  ]
+ },
+ {
+  "id": "L10",
+  "name": "Paris",
+  "also": [],
+  "country": "France",
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "quality": "Town",
+  "note": "",
+  "people": [
+   {
+    "person": "P20",
+    "kind": "birth",
+    "either": false,
+    "fact": "F029"
+   }
+  ],
+  "facts": []
+ }
+]

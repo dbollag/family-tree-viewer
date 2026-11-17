@@ -1,0 +1,632 @@
+[
+ {
+  "id": "F001",
+  "person": "P01",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Boston, United States.",
+  "status": "CONFIRMED BY OWNER",
+  "sources": [
+   "S07"
+  ],
+  "place": "L05",
+  "year": "1990"
+ },
+ {
+  "id": "F002",
+  "person": "P02",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Chicago, United States.",
+  "status": "CONFIRMED BY OWNER",
+  "sources": [
+   "S07"
+  ],
+  "place": "L09",
+  "year": "1989"
+ },
+ {
+  "id": "F003",
+  "person": "P03",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Boston, United States.",
+  "status": "CONFIRMED BY OWNER",
+  "sources": [
+   "S07"
+  ],
+  "place": "L05",
+  "year": "2018"
+ },
+ {
+  "id": "F004",
+  "person": "P04",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Boston, United States.",
+  "status": "CONFIRMED BY OWNER",
+  "sources": [
+   "S07"
+  ],
+  "place": "L05",
+  "year": "2021"
+ },
+ {
+  "id": "F005",
+  "person": "P05",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Minneapolis, United States.",
+  "status": "RECORD",
+  "sources": [
+   "S03"
+  ],
+  "place": "L04",
+  "year": "1960"
+ },
+ {
+  "id": "F006",
+  "person": "P06",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Lyon, France.",
+  "status": "RECORD",
+  "sources": [
+   "S03"
+  ],
+  "place": "L06",
+  "year": "1962"
+ },
+ {
+  "id": "F007",
+  "person": "P07",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Minneapolis, United States.",
+  "status": "CONFIRMED BY OWNER",
+  "sources": [
+   "S07"
+  ],
+  "place": "L04",
+  "year": "1993"
+ },
+ {
+  "id": "F008",
+  "person": "P08",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Chicago, United States.",
+  "status": "CONFIRMED BY OWNER",
+  "sources": [
+   "S07"
+  ],
+  "place": "L09",
+  "year": "1992"
+ },
+ {
+  "id": "F009",
+  "person": "P09",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Minneapolis, United States.",
+  "status": "CONFIRMED BY OWNER",
+  "sources": [
+   "S07"
+  ],
+  "place": "L04",
+  "year": "2022"
+ },
+ {
+  "id": "F010",
+  "person": "P10",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Gothenburg, Sweden.",
+  "status": "RECORD",
+  "sources": [
+   "S01"
+  ],
+  "place": "L01",
+  "year": "1932"
+ },
+ {
+  "id": "F011",
+  "person": "P10",
+  "kind": "DEATH",
+  "date": "",
+  "text": "Died in Minneapolis.",
+  "status": "RECORD",
+  "sources": [
+   "S01"
+  ],
+  "place": "L04",
+  "year": "2009"
+ },
+ {
+  "id": "F012",
+  "person": "P11",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Malmö, Sweden.",
+  "status": "RECORD",
+  "sources": [
+   "S02"
+  ],
+  "place": "L02",
+  "year": "1935"
+ },
+ {
+  "id": "F013",
+  "person": "P11",
+  "kind": "DEATH",
+  "date": "",
+  "text": "Died in Minneapolis.",
+  "status": "RECORD",
+  "sources": [
+   "S02"
+  ],
+  "place": "L04",
+  "year": "2015"
+ },
+ {
+  "id": "F014",
+  "person": "P12",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Minneapolis, United States.",
+  "status": "FAMILY ACCOUNT",
+  "sources": [
+   "S06"
+  ],
+  "place": "L04",
+  "year": "1958"
+ },
+ {
+  "id": "F015",
+  "person": "P13",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Lyon, France.",
+  "status": "DATABASE ENTRY",
+  "sources": [
+   "S05"
+  ],
+  "place": "L06",
+  "year": "1934"
+ },
+ {
+  "id": "F016",
+  "person": "P13",
+  "kind": "DEATH",
+  "date": "",
+  "text": "Died in Lyon.",
+  "status": "DATABASE ENTRY",
+  "sources": [
+   "S05"
+  ],
+  "place": "L06",
+  "year": "2001"
+ },
+ {
+  "id": "F017",
+  "person": "P14",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Dijon, France.",
+  "status": "DATABASE ENTRY",
+  "sources": [
+   "S05"
+  ],
+  "place": "L07",
+  "year": "1937"
+ },
+ {
+  "id": "F018",
+  "person": "P14",
+  "kind": "DEATH",
+  "date": "",
+  "text": "Died in Lyon.",
+  "status": "DATABASE ENTRY",
+  "sources": [
+   "S05"
+  ],
+  "place": "L06",
+  "year": "2019"
+ },
+ {
+  "id": "F019",
+  "person": "P15",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Gothenburg, Sweden.",
+  "status": "RECORD",
+  "sources": [
+   "S01"
+  ],
+  "place": "L01",
+  "year": "1901"
+ },
+ {
+  "id": "F020",
+  "person": "P15",
+  "kind": "DEATH",
+  "date": "",
+  "text": "Died in Gothenburg.",
+  "status": "RECORD",
+  "sources": [
+   "S01"
+  ],
+  "place": "L01",
+  "year": "1975"
+ },
+ {
+  "id": "F021",
+  "person": "P16",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Uppsala, Sweden.",
+  "status": "RECORD",
+  "sources": [
+   "S01"
+  ],
+  "place": "L03",
+  "year": "1905"
+ },
+ {
+  "id": "F022",
+  "person": "P16",
+  "kind": "DEATH",
+  "date": "",
+  "text": "Died in Gothenburg.",
+  "status": "RECORD",
+  "sources": [
+   "S01"
+  ],
+  "place": "L01",
+  "year": "1988"
+ },
+ {
+  "id": "F023",
+  "person": "P17",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Malmö, Sweden.",
+  "status": "FAMILY ACCOUNT",
+  "sources": [
+   "S06"
+  ],
+  "place": "L02",
+  "year": "1900"
+ },
+ {
+  "id": "F024",
+  "person": "P17",
+  "kind": "DEATH",
+  "date": "",
+  "text": "Died in Malmö.",
+  "status": "FAMILY ACCOUNT",
+  "sources": [
+   "S06"
+  ],
+  "place": "L02",
+  "year": "1969"
+ },
+ {
+  "id": "F025",
+  "person": "P18",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born; place not recorded.",
+  "status": "FAMILY ACCOUNT",
+  "sources": [
+   "S06"
+  ],
+  "year": "1904"
+ },
+ {
+  "id": "F026",
+  "person": "P18",
+  "kind": "DEATH",
+  "date": "",
+  "text": "Died in Malmö.",
+  "status": "FAMILY ACCOUNT",
+  "sources": [
+   "S06"
+  ],
+  "place": "L02",
+  "year": "1980"
+ },
+ {
+  "id": "F027",
+  "person": "P19",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Lyon, France.",
+  "status": "DATABASE ENTRY",
+  "sources": [
+   "S05"
+  ],
+  "place": "L06",
+  "year": "1905"
+ },
+ {
+  "id": "F028",
+  "person": "P19",
+  "kind": "DEATH",
+  "date": "",
+  "text": "Died in Lyon.",
+  "status": "DATABASE ENTRY",
+  "sources": [
+   "S05"
+  ],
+  "place": "L06",
+  "year": "1968"
+ },
+ {
+  "id": "F029",
+  "person": "P20",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Paris, France.",
+  "status": "DATABASE ENTRY",
+  "sources": [
+   "S05"
+  ],
+  "place": "L10",
+  "year": "1908"
+ },
+ {
+  "id": "F030",
+  "person": "P20",
+  "kind": "DEATH",
+  "date": "",
+  "text": "Died in Lyon.",
+  "status": "DATABASE ENTRY",
+  "sources": [
+   "S05"
+  ],
+  "place": "L06",
+  "year": "1990"
+ },
+ {
+  "id": "F031",
+  "person": "P21",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born in Gothenburg, Sweden.",
+  "status": "RECORD",
+  "sources": [
+   "S01"
+  ],
+  "place": "L01",
+  "year": "1930"
+ },
+ {
+  "id": "F032",
+  "person": "P21",
+  "kind": "DEATH",
+  "date": "",
+  "text": "Died in Stockholm.",
+  "status": "RECORD",
+  "sources": [
+   "S01"
+  ],
+  "place": "L08",
+  "year": "1999"
+ },
+ {
+  "id": "F033",
+  "person": "P22",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Born; place not recorded.",
+  "status": "INFERENCE",
+  "sources": [
+   "S06"
+  ],
+  "year": "1870"
+ },
+ {
+  "id": "F034",
+  "person": "P10",
+  "kind": "RESIDENCE",
+  "date": "",
+  "text": "Lived in Minneapolis from 1955.",
+  "status": "RECORD",
+  "sources": [
+   "S03"
+  ],
+  "place": "L04",
+  "year": "1955"
+ },
+ {
+  "id": "F035",
+  "person": "P10",
+  "kind": "OCCUPATION",
+  "date": "",
+  "text": "Machinist.",
+  "status": "RECORD",
+  "sources": [
+   "S03"
+  ],
+  "year": "1955"
+ },
+ {
+  "id": "F036",
+  "person": "P05",
+  "kind": "RESIDENCE",
+  "date": "",
+  "text": "Lived in Minneapolis all his life.",
+  "status": "RECORD",
+  "sources": [
+   "S03"
+  ],
+  "place": "L04"
+ },
+ {
+  "id": "F037",
+  "person": "P06",
+  "kind": "RESIDENCE",
+  "date": "",
+  "text": "Moved from Lyon to Minneapolis in 1985.",
+  "status": "RECORD",
+  "sources": [
+   "S03"
+  ],
+  "place": "L04",
+  "year": "1985"
+ },
+ {
+  "id": "F038",
+  "person": "P01",
+  "kind": "RESIDENCE",
+  "date": "",
+  "text": "Lives in Boston.",
+  "status": "CONFIRMED BY OWNER",
+  "sources": [
+   "S07"
+  ],
+  "place": "L05"
+ },
+ {
+  "id": "F039",
+  "person": "P02",
+  "kind": "RESIDENCE",
+  "date": "",
+  "text": "Lives in Boston.",
+  "status": "CONFIRMED BY OWNER",
+  "sources": [
+   "S07"
+  ],
+  "place": "L05"
+ },
+ {
+  "id": "F040",
+  "person": "P21",
+  "kind": "RESIDENCE",
+  "date": "",
+  "text": "Lived in Stockholm.",
+  "status": "RECORD",
+  "sources": [
+   "S01"
+  ],
+  "place": "L08"
+ },
+ {
+  "id": "F041",
+  "person": "P16",
+  "kind": "BIRTH",
+  "date": "",
+  "text": "Birth year given as 1906 in a later record.",
+  "status": "FAMILY ACCOUNT",
+  "sources": [
+   "S06"
+  ],
+  "year": "1906",
+  "conflict": "K01"
+ },
+ {
+  "id": "F042",
+  "person": "P01",
+  "kind": "MARRIAGE",
+  "date": "",
+  "text": "Married Daniel Okoye in Boston, 2016.",
+  "status": "CONFIRMED BY OWNER",
+  "sources": [
+   "S07"
+  ],
+  "place": "L05",
+  "year": "2016"
+ },
+ {
+  "id": "F043",
+  "person": "P05",
+  "kind": "MARRIAGE",
+  "date": "",
+  "text": "Married Claire Moreau in Minneapolis, 1987.",
+  "status": "RECORD",
+  "sources": [
+   "S02"
+  ],
+  "place": "L04",
+  "year": "1987"
+ },
+ {
+  "id": "F044",
+  "person": "P07",
+  "kind": "MARRIAGE",
+  "date": "",
+  "text": "Married Priya Nair in Chicago, 2019.",
+  "status": "CONFIRMED BY OWNER",
+  "sources": [
+   "S07"
+  ],
+  "place": "L09",
+  "year": "2019"
+ },
+ {
+  "id": "F045",
+  "person": "P10",
+  "kind": "MARRIAGE",
+  "date": "",
+  "text": "Married Ingrid Lindqvist in Minneapolis, 1957.",
+  "status": "RECORD",
+  "sources": [
+   "S02"
+  ],
+  "place": "L04",
+  "year": "1957"
+ },
+ {
+  "id": "F046",
+  "person": "P13",
+  "kind": "MARRIAGE",
+  "date": "",
+  "text": "Married Marguerite Dubois in Lyon, 1959.",
+  "status": "RECORD",
+  "sources": [
+   "S02"
+  ],
+  "place": "L06",
+  "year": "1959"
+ },
+ {
+  "id": "F047",
+  "person": "P15",
+  "kind": "MARRIAGE",
+  "date": "",
+  "text": "Married Astrid Berg in Gothenburg, 1929.",
+  "status": "RECORD",
+  "sources": [
+   "S02"
+  ],
+  "place": "L01",
+  "year": "1929"
+ },
+ {
+  "id": "F048",
+  "person": "P17",
+  "kind": "MARRIAGE",
+  "date": "",
+  "text": "Married Olga Persson in Malmö, 1926.",
+  "status": "RECORD",
+  "sources": [
+   "S02"
+  ],
+  "place": "L02",
+  "year": "1926"
+ },
+ {
+  "id": "F049",
+  "person": "P19",
+  "kind": "MARRIAGE",
+  "date": "",
+  "text": "Married Louise Garnier in Lyon, 1930.",
+  "status": "RECORD",
+  "sources": [
+   "S02"
+  ],
+  "place": "L06",
+  "year": "1930"
+ }
+]

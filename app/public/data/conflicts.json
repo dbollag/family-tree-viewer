@@ -1,0 +1,31 @@
+[
+ {
+  "id": "K01",
+  "persons": [
+   "P16"
+  ],
+  "topic": "Astrid Berg's birth year",
+  "status": "Open",
+  "sources": [
+   "S01",
+   "S06"
+  ],
+  "versions": [
+   {
+    "value": "1905",
+    "status": "RECORD",
+    "sources": [
+     "S01"
+    ]
+   },
+   {
+    "value": "1906",
+    "status": "FAMILY ACCOUNT",
+    "sources": [
+     "S06"
+    ]
+   }
+  ],
+  "note": "The birth entry says 1905; Karin's notes say 1906. Both are shown until a second record turns up."
+ }
+]

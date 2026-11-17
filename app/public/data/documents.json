@@ -1,0 +1,64 @@
+[
+ {
+  "id": "scan-01",
+  "scan": 1,
+  "title": "Birth certificate, Erik Hartwell",
+  "image": "scans/sample-01.svg",
+  "caption": "A fictional birth entry drawn for this sample.",
+  "notes": [],
+  "status": "RECORD",
+  "persons": [
+   "P10"
+  ],
+  "archiveUrl": null,
+  "driveViewUrl": null
+ },
+ {
+  "id": "scan-02",
+  "scan": 2,
+  "title": "Marriage record, Erik and Ingrid",
+  "image": "scans/sample-02.svg",
+  "caption": "A fictional marriage record drawn for this sample.",
+  "notes": [],
+  "status": "RECORD",
+  "persons": [
+   "P10",
+   "P11"
+  ],
+  "archiveUrl": null,
+  "driveViewUrl": null
+ },
+ {
+  "id": "scan-03",
+  "scan": 3,
+  "title": "Passenger list, 1955 arrival",
+  "image": "scans/sample-03.svg",
+  "caption": "A fictional passenger list drawn for this sample.",
+  "notes": [],
+  "status": "RECORD",
+  "persons": [
+   "P10"
+  ],
+  "archiveUrl": null,
+  "driveViewUrl": null
+ },
+ {
+  "id": "scan-04",
+  "scan": 4,
+  "title": "Family photograph, Hartwell reunion",
+  "image": "scans/sample-04.svg",
+  "caption": "A drawn placeholder standing in for a family photograph.",
+  "notes": [],
+  "status": "FAMILY ACCOUNT",
+  "persons": [
+   "P05",
+   "P06",
+   "P12",
+   "P10",
+   "P11"
+  ],
+  "archiveUrl": null,
+  "driveViewUrl": null,
+  "isPhoto": true
+ }
+]

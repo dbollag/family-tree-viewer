@@ -1,0 +1,10 @@
+{
+  // Optional: deploys the built site plus the feedback Worker (npm run build && npx wrangler deploy).
+  // Copy to wrangler.jsonc and fill in your own values. wrangler.jsonc is git-ignored.
+  "name": "family-tree-sample",
+  "main": "worker/index.js",
+  "compatibility_date": "2026-11-01",
+  "assets": { "directory": "./dist", "binding": "ASSETS", "run_worker_first": ["/api/*"] },
+  "kv_namespaces": [{ "binding": "FEEDBACK", "id": "YOUR-KV-NAMESPACE-ID" }],
+  "vars": { "OWNER_EMAIL": "you@example.com" }
+}

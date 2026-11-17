@@ -1,0 +1,360 @@
+[
+ {
+  "id": "R01",
+  "type": "parent",
+  "a": "P01",
+  "b": "P03",
+  "status": "CONFIRMED BY OWNER",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed"
+ },
+ {
+  "id": "R02",
+  "type": "parent",
+  "a": "P02",
+  "b": "P03",
+  "status": "CONFIRMED BY OWNER",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed"
+ },
+ {
+  "id": "R03",
+  "type": "parent",
+  "a": "P01",
+  "b": "P04",
+  "status": "CONFIRMED BY OWNER",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed"
+ },
+ {
+  "id": "R04",
+  "type": "parent",
+  "a": "P02",
+  "b": "P04",
+  "status": "CONFIRMED BY OWNER",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed"
+ },
+ {
+  "id": "R05",
+  "type": "parent",
+  "a": "P05",
+  "b": "P01",
+  "status": "RECORD",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed"
+ },
+ {
+  "id": "R06",
+  "type": "parent",
+  "a": "P06",
+  "b": "P01",
+  "status": "RECORD",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed"
+ },
+ {
+  "id": "R07",
+  "type": "parent",
+  "a": "P05",
+  "b": "P07",
+  "status": "RECORD",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed"
+ },
+ {
+  "id": "R08",
+  "type": "parent",
+  "a": "P06",
+  "b": "P07",
+  "status": "RECORD",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed"
+ },
+ {
+  "id": "R09",
+  "type": "parent",
+  "a": "P05",
+  "b": "P12",
+  "status": "FAMILY ACCOUNT",
+  "sources": [],
+  "note": "Stated by Henrik; no birth record seen.",
+  "level": "Probable"
+ },
+ {
+  "id": "R10",
+  "type": "parent",
+  "a": "P06",
+  "b": "P12",
+  "status": "FAMILY ACCOUNT",
+  "sources": [],
+  "note": "Stated by Henrik; no birth record seen.",
+  "level": "Probable"
+ },
+ {
+  "id": "R11",
+  "type": "parent",
+  "a": "P07",
+  "b": "P09",
+  "status": "CONFIRMED BY OWNER",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed"
+ },
+ {
+  "id": "R12",
+  "type": "parent",
+  "a": "P08",
+  "b": "P09",
+  "status": "CONFIRMED BY OWNER",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed"
+ },
+ {
+  "id": "R13",
+  "type": "parent",
+  "a": "P10",
+  "b": "P05",
+  "status": "RECORD",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed"
+ },
+ {
+  "id": "R14",
+  "type": "parent",
+  "a": "P11",
+  "b": "P05",
+  "status": "RECORD",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed"
+ },
+ {
+  "id": "R15",
+  "type": "parent",
+  "a": "P10",
+  "b": "P12",
+  "status": "RECORD",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed"
+ },
+ {
+  "id": "R16",
+  "type": "parent",
+  "a": "P11",
+  "b": "P12",
+  "status": "RECORD",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed"
+ },
+ {
+  "id": "R17",
+  "type": "parent",
+  "a": "P13",
+  "b": "P06",
+  "status": "DATABASE ENTRY",
+  "sources": [],
+  "note": "",
+  "level": "Probable"
+ },
+ {
+  "id": "R18",
+  "type": "parent",
+  "a": "P14",
+  "b": "P06",
+  "status": "DATABASE ENTRY",
+  "sources": [],
+  "note": "",
+  "level": "Probable"
+ },
+ {
+  "id": "R19",
+  "type": "parent",
+  "a": "P15",
+  "b": "P10",
+  "status": "RECORD",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed"
+ },
+ {
+  "id": "R20",
+  "type": "parent",
+  "a": "P16",
+  "b": "P10",
+  "status": "RECORD",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed"
+ },
+ {
+  "id": "R21",
+  "type": "parent",
+  "a": "P15",
+  "b": "P21",
+  "status": "RECORD",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed"
+ },
+ {
+  "id": "R22",
+  "type": "parent",
+  "a": "P16",
+  "b": "P21",
+  "status": "RECORD",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed"
+ },
+ {
+  "id": "R23",
+  "type": "parent",
+  "a": "P17",
+  "b": "P11",
+  "status": "DATABASE ENTRY",
+  "sources": [],
+  "note": "",
+  "level": "Probable"
+ },
+ {
+  "id": "R24",
+  "type": "parent",
+  "a": "P18",
+  "b": "P11",
+  "status": "DATABASE ENTRY",
+  "sources": [],
+  "note": "",
+  "level": "Probable"
+ },
+ {
+  "id": "R25",
+  "type": "parent",
+  "a": "P19",
+  "b": "P13",
+  "status": "DATABASE ENTRY",
+  "sources": [],
+  "note": "",
+  "level": "Probable"
+ },
+ {
+  "id": "R26",
+  "type": "parent",
+  "a": "P20",
+  "b": "P13",
+  "status": "DATABASE ENTRY",
+  "sources": [],
+  "note": "",
+  "level": "Probable"
+ },
+ {
+  "id": "R27",
+  "type": "parent",
+  "a": "P22",
+  "b": "P15",
+  "status": "INFERENCE",
+  "sources": [],
+  "note": "Suggested by a later family note; no record names him as Nils's father.",
+  "level": "Possible"
+ },
+ {
+  "id": "R28",
+  "type": "partner",
+  "a": "P01",
+  "b": "P02",
+  "status": "CONFIRMED BY OWNER",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed",
+  "label": "Spouse"
+ },
+ {
+  "id": "R29",
+  "type": "partner",
+  "a": "P05",
+  "b": "P06",
+  "status": "RECORD",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed",
+  "label": "Spouse"
+ },
+ {
+  "id": "R30",
+  "type": "partner",
+  "a": "P07",
+  "b": "P08",
+  "status": "CONFIRMED BY OWNER",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed",
+  "label": "Spouse"
+ },
+ {
+  "id": "R31",
+  "type": "partner",
+  "a": "P10",
+  "b": "P11",
+  "status": "RECORD",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed",
+  "label": "Spouse"
+ },
+ {
+  "id": "R32",
+  "type": "partner",
+  "a": "P13",
+  "b": "P14",
+  "status": "DATABASE ENTRY",
+  "sources": [],
+  "note": "",
+  "level": "Probable",
+  "label": "Spouse"
+ },
+ {
+  "id": "R33",
+  "type": "partner",
+  "a": "P15",
+  "b": "P16",
+  "status": "RECORD",
+  "sources": [],
+  "note": "",
+  "level": "Confirmed",
+  "label": "Spouse"
+ },
+ {
+  "id": "R34",
+  "type": "partner",
+  "a": "P17",
+  "b": "P18",
+  "status": "DATABASE ENTRY",
+  "sources": [],
+  "note": "",
+  "level": "Probable",
+  "label": "Spouse"
+ },
+ {
+  "id": "R35",
+  "type": "partner",
+  "a": "P19",
+  "b": "P20",
+  "status": "DATABASE ENTRY",
+  "sources": [],
+  "note": "",
+  "level": "Probable",
+  "label": "Spouse"
+ }
+]
